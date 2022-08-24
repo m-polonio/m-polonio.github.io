@@ -31,12 +31,9 @@ navigation:
   - text: Home
     url: /
   - text: Sobre Mi
-    url: /about.md/
+    url: /about
   - text: Contacto
-    url: /style-guide/
-
-# The shortname for your Disqus site to enable comments.
-disqus: justgoodthemes
+    url: /style-guide
 
 # Colors
 accent_color: '#2d72d9'
