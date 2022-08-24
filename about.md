@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About this blog
+title: Maria del Carmen Horcas
 description: An optional about page for Scriptor Jekyll theme
 feature_image: images/miFoto.jpg
 ---
