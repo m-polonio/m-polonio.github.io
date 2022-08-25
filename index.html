@@ -24,7 +24,7 @@ layout: default
     <div class="post-content">
       {% if post.content contains '<!--more-->' %}
       {{ post.content | split:'<!--more-->' | first }}
-      <p class="read-more"><a href="{{ site.baseurl }}{{ post.url }}" class="read-more-link">Continue reading &rarr;</a>
+      <p class="read-more"><a href="{{ site.baseurl }}{{ post.url }}" class="read-more-link">Seguir leyendo &rarr;</a>
       </p>
       {% else %}
       {{ post.content }}
@@ -35,14 +35,14 @@ layout: default
 
   {% if paginator.total_pages > 1 %}
   <nav class="pagination">
-    <h2 class="screen-reader-text">Posts navigation</h2>
+    <h2 class="screen-reader-text">Navegación</h2>
     <div class="nav-links">
       {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path | relative_url }}" class="newer-posts">&larr; Newer Posts</a>
+      <a href="{{ paginator.previous_page_path | relative_url }}" class="newer-posts">&larr; Artículos Nuevos</a>
       {% endif %}
       <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
       {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path | relative_url }}" class="older-posts">Older Posts &rarr;</a>
+      <a href="{{ paginator.next_page_path | relative_url }}" class="older-posts">Artículos Antiguos &rarr;</a>
       {% endif %}
     </div>
   </nav><!-- .pagination -->
