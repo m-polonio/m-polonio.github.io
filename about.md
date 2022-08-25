@@ -5,12 +5,12 @@ description: An optional about page for Scriptor Jekyll theme
 feature_image: images/miFoto.jpg
 ---
 
-**John Doe** is a Senior Art Director from [Vilnius](https://en.wikipedia.org/wiki/Vilnius), Lithuania. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+Redactora freelance licenciada en Publicidad y Relaciones Públicas (UMA), especializada en imagen, publicidad e identidad corporativa (Universidad Camilo José Cela/EAE Business School) y marketing digital y comunicación digital (Universidad de Nebrija/ESESA).
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2015.
+A lo largo de mi  formación académica, complementé la realización de los másteres con diferentes cursos de escritura que me permitieron potenciar mis habilidades en la redacción de textos orientados a afianzar el posicionamiento SEO y SEM en el entorno digital, mejorar la experiencia del cliente a través de la personalización y, por consiguiente, incrementar el ratio de conversión. 
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+Paralelamente, durante este período de constante aprendizaje profesional y enriquecimiento personal, colabore en diferentes medios online como periodista cultural (Quiero escribir), crítica literaria (La web del Terror, Cine y Bso) y podcaster (Entre Pelis). 
 
-As a hobby, John Doe authors the most influential design blog in Lithuania with over 100,000 page views a month. He lives in Vilnius with his beautiful wife, two boys and one girl.
+De hecho, a partir de estas diferentes experiencias, decidí retomar un proyecto de carácter personal, Sinestesia Literaria, un blog que proporcione al usuario una experiencia sensorial inmersiva, descubriendo la capacidad de saborear las palabras, apreciar la textura de las páginas y observar los sonidos del lenguaje. 
 
-*Thank You for reading!*
+**Os invito a escribir conmigo este nuevo capítulo.**
