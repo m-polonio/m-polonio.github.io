@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site language
-lang: es
+lang: es-ES
 
 # Site title
 title: "Sinestesia Literaria"
@@ -40,7 +40,7 @@ accent_color: '#CBDADF'
 
 # Site footer
 footer:
-  content: "&copy; 2022 Miguel Polonio all rights reserved."
+  content: "&copy; 2022 Miguel Polonio"
   has_social: true
 
 # Plugins
